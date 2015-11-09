@@ -1,0 +1,26 @@
+	
+@font-face
+{
+	font-family: PTSANSAntrian;
+	src: url('../asset/css(PTSANS)');
+}
+@font-face
+{
+	font-family: OPENSANSAntrian;
+	src: url('../asset/css(OPENSANS)');
+}
+@font-face
+{
+	font-family: CARROISGOTHICAntrian;
+	src: url('../asset/css(CARROISGOTHIC)');
+}
+@font-face
+{
+	font-family: HAPPYMONKEYAntrian;
+	src: url('../asset/css(HAPPYMONKEY)');
+}
+@font-face
+{
+	font-family: SINTONYAntrian;
+	src: url('../asset/css(SINTONYA)');
+}
